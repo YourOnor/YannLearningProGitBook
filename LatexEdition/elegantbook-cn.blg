@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'elegantbook-cn.blg'
-[162] biber-MSWIN64:340> INFO - === 
-[209] Biber.pm:419> INFO - Reading 'elegantbook-cn.bcf'
-[382] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[406] Biber.pm:4419> INFO - Processing section 0
-[423] Biber.pm:4610> INFO - Looking for bibtex file 'reference.bib' for section 0
-[488] bibtex.pm:1713> INFO - LaTeX decoding ...
-[505] bibtex.pm:1519> INFO - Found BibTeX data source 'reference.bib'
-[602] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[602] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[603] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[603] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[612] bbl.pm:660> INFO - Writing 'elegantbook-cn.bbl' with encoding 'UTF-8'
-[616] bbl.pm:763> INFO - Output to elegantbook-cn.bbl
+[270] biber-MSWIN64:340> INFO - === 
+[369] Biber.pm:419> INFO - Reading 'elegantbook-cn.bcf'
+[589] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[616] Biber.pm:4419> INFO - Processing section 0
+[658] Biber.pm:4610> INFO - Looking for bibtex file 'reference.bib' for section 0
+[751] bibtex.pm:1713> INFO - LaTeX decoding ...
+[781] bibtex.pm:1519> INFO - Found BibTeX data source 'reference.bib'
+[943] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[943] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[943] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[944] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[955] bbl.pm:660> INFO - Writing 'elegantbook-cn.bbl' with encoding 'UTF-8'
+[959] bbl.pm:763> INFO - Output to elegantbook-cn.bbl
