@@ -1,0 +1,32 @@
+\documentclass[lang=cn,newtx,10pt,scheme=chinese]{elegantbook}
+
+
+
+\begin{document}
+
+LatexEdition文件夹中的内容是Latex书籍模板\lstinline{ElegantBook}原始压缩包中的标准模板内容，我想利用这个模板来书写我自己的
+书籍/笔记，因此我创建了一个与LatexEdition并列的文件夹：\lstinline{MyElegantBook}，准备一点一点学习ElegantBook书籍模板中的惯用法。
+
+\textbf{如果你想使用ElegantBook这个模板，那么MyElegantBook这个目录下面一定要有elegantbook.cls}。
+
+\href{https://blog.csdn.net/qq_44935032/article/details/130721017}{Ubuntu Snap Store无法升级的三种解决办法}(CSDN)，
+我在华硕电脑上遇到了Snap Store无法升级的情况：系统提示我有两个软件可以升级，我点击升级按钮提示错误。错误如下：
+
+\begin{quotation}
+    Unable to install updates: (null): cannot refresh "snap-store": snap "snap-store" has running apps (ubuntu-software), 
+    pids: 2724.
+\end{quotation}
+
+解决办法就是先用\textit{ps -p 2724}查看一下这个进程是干什么的，然后用\textit{kill 2724}杀死这个进程，最后\textit{sudo snap refresh snap-store}
+对snap-store进行更新。
+
+在不知道进程号2724时用\textit{ps aux|grep snap-store}来查看snap-store程序对应的进程号。
+
+
+
+
+
+
+
+\end{document}
+
