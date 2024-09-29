@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.6)  28 SEP 2024 22:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.6)  29 SEP 2024 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,8 +22,8 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count181
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
 \c@chapter=\count183
@@ -219,7 +219,7 @@ Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/TeXGyreTermesX.fontspec)
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 183.
+(Font)              scaled to size 12.0pt on input line 183.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/ctex.sty
 Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/ctexhook.sty
@@ -1664,12 +1664,12 @@ Package hyperref Info: Link coloring ON on input line 5.
 * \topmargin=-73.12352pt
 * \headheight=61.74242pt
 * \headsep=11.38109pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=34.1433pt
-* \marginparwidth=61.0pt
+* \marginparwidth=38.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1715,11 +1715,11 @@ Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
 \c@lstlisting=\count561
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 10.
+(Font)              scaled to size 12.0pt on input line 10.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 20.
+(Font)              scaled to size 12.0pt on input line 20.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 31.
+(Font)              scaled to size 10.95pt on input line 34.
 [1
 
 ] (./MyElegantBook.aux)
@@ -1730,10 +1730,10 @@ Package logreq Info: Writing requests to 'MyElegantBook.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48830 strings out of 476660
- 1015559 string characters out of 5803253
- 1942821 words of memory out of 5000000
- 68324 multiletter control sequences out of 15000+600000
+ 48841 strings out of 476660
+ 1016430 string characters out of 5803253
+ 1946867 words of memory out of 5000000
+ 68335 multiletter control sequences out of 15000+600000
  514885 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,12n,136p,682b,2226s stack positions out of 10000i,1000n,20000p,200000b,200000s
